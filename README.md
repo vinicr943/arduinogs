@@ -112,9 +112,9 @@ Através da leitura contínua de sensores ambientais, o sistema identifica situa
           ┌──────────────┼──────────────┐
           ▼              ▼              ▼
      LED Verde     LED Amarelo     LED Vermelho
-                                           │
-                                           ▼
-                                        Buzzer
+                         │
+                         ▼
+                       Buzzer
 
 
 
