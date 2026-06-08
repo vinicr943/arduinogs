@@ -125,17 +125,13 @@ O projeto foi desenvolvido utilizando:
 
 ## ▶️ Como Executar
 
-### 1. Clone o repositório
-
-https://github.com/vinicr943/arduinogs.git
-
-### 2. Abra o projeto
+### 1. Abra o projeto
 
 Utilize:
 
 - Wokwi
 
-### 3. Execute a simulação
+### 2. Execute a simulação
 
 Inicie a execução e acompanhe o comportamento dos sensores e alertas.
 
