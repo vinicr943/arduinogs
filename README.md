@@ -99,18 +99,24 @@ Através da leitura contínua de sensores ambientais, o sistema identifica situa
 
 ## 🔌 Estrutura do Circuito
 
-Sensor Ultrassônico
-       │
-       ▼
-   Arduino Uno
-       │
- ┌─────┼─────┐
- ▼     ▼     ▼
-LED  LED   LED
-VERD AMAR VERM
-       │
-       ▼
-    Buzzer
+
+
+                 Sensor Ultrassônico
+                         │
+                         ▼
+                   ┌───────────┐
+                   │ Arduino   │
+                   │    Uno    │
+                   └─────┬─────┘
+                         │
+          ┌──────────────┼──────────────┐
+          ▼              ▼              ▼
+     LED Verde     LED Amarelo     LED Vermelho
+                                           │
+                                           ▼
+                                        Buzzer
+
+
 
 ---
 
